@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Instagram Clone",
+      "live": "https://instagram-clone-713.herokuapp.com/",
+      "git": "https://github.com/siemenjm/Instagram-Clone-Project2",
+      "image": "https://github.com/siemenjm/Instagram-Clone-Project2/blob/jared/assets/post_show_page.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Battleship",
+      "live": "https://siemenjm.github.io/battleship-project1/",
+      "git": "https://github.com/siemenjm/battleship-project1",
+      "image": "https://github.com/siemenjm/battleship-project1/raw/main/screenshots/midgame_screen.png"
     }
   ]
